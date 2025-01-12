@@ -1,0 +1,9 @@
+{
+  "search": {
+    "title": "Search Jobs",
+    "keywords": "Keywords / Job Title / Job Ref",
+    "location": "Location",
+    "distance": "Distance",
+    "findJobs": "Find jobs now"
+  }
+}
